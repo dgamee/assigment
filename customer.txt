@@ -1,0 +1,4 @@
+rayden,rayden@gmail.com,123456,male,26-39,comedy,horror,animation
+femi,femi@mail.com,123456,male,26-39,thriller,thriller,horror
+hadiza,hadiza@gmail.com,123456,female,26-39,romance,horror,action
+yusuf,yusuf@gmail.com,123456,male,40-59,romance,horror,action
